@@ -1,0 +1,36 @@
+* {
+  background-color: black;
+  color: rgb(196, 148, 18);
+  text-transform: uppercase;
+  font-size: 30px;
+  text-shadow: 2px 2px white;
+  font-family: "Roboto Mono", monospace;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+
+}
+
+#main_img {
+  width: 90%;
+  border: 10px solid #ffd700;
+}
+
+#main_container {
+  height: 600px;
+  width: 600px;
+  text-align: center;
+  margin-top: 4%;
+  margin-left:27%;
+  border: 10px solid wheat;
+  
+}
+
+#first_text {
+  padding-bottom: 5%;
+  margin-top: 7%;
+}
+
+#secound_text {
+  padding-top: 5%;
+}
